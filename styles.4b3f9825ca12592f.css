@@ -1,4 +1,4 @@
-@charset "UTF-8";/*!
+@import"https://fonts.googleapis.com/css2?family=Montserrat&display=swap";*{font-family:Montserrat,sans-serif}section{display:flex;flex-direction:column;align-items:center;justify-content:center}h1{font-size:2.5rem;font-family:Montserrat,sans-serif}.seccion-oscura{color:#fff;background-color:#000}.seccion-clara{color:#000;background-color:#fff}.seccion-titulo{font-size:2rem;padding:15px 10px;font-family:Montserrat,sans-serif;color:#0dcaf0}.seccion-descripcion{font-size:1.2rem;color:#584e4e}.seccion-texto{font-size:1rem}.btn-info{font-size:1.1rem;margin:20px}.texto-negro{color:#000}.texto-blanco{color:#fff}@charset "UTF-8";/*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
