@@ -9,6 +9,8 @@ import { SobreMiComponent } from './components/sobre-mi/sobre-mi.component';
 import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { CertificacionesComponent } from './components/certificaciones/certificaciones.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { NgCircleProgressModule } from 'ng-circle-progress';
+import { HardysoftComponent } from './components/hardysoft/hardysoft.component';
 
 @NgModule({
   declarations: [
@@ -18,11 +20,13 @@ import { FooterComponent } from './components/footer/footer.component';
     SobreMiComponent,
     ProyectosComponent,
     CertificacionesComponent,
-    FooterComponent
+    FooterComponent,
+    HardysoftComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NgCircleProgressModule.forRoot({})
   ],
   providers: [],
   bootstrap: [AppComponent]
