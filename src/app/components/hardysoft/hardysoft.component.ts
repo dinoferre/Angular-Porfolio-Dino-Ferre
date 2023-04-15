@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './hardysoft.component.html',
   styleUrls: ['./hardysoft.component.css']
 })
+
 export class HardysoftComponent {
 
 }

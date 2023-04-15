@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './sobre-mi.component.html',
   styleUrls: ['./sobre-mi.component.css']
 })
+
 export class SobreMiComponent {
 
 }

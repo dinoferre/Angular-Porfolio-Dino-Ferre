@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './certificaciones.component.html',
   styleUrls: ['./certificaciones.component.css']
 })
+
 export class CertificacionesComponent {
 
 }
