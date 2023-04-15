@@ -2,28 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
+Mi proyecto es una página web personal que diseñé y desarrollé para presentar mis habilidades y proyectos. La página web contiene diferentes secciones, entre las que se incluyen una sección "Sobre mí", una sección de "Proyectos", una sección de "Certificaciones", una sección "HardySoft" para mostrar mis habilidades técnicas, y una sección de "Contacto" con mi información de contacto y enlaces a mis redes sociales.
+
+Para el desarrollo de la página web, utilicé tecnologías como Angular para la parte del Front-End, así como también Bootstrap y Font Awesome para el diseño y las animaciones.
+
+En general, estoy muy satisfecho con el resultado de mi página web y creo que es una buena manera de mostrar mis habilidades y proyectos realizados.
+
+Dino Ferré 👽
+
 Link del portfolio en About 👉
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
