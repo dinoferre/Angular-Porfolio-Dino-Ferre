@@ -8,6 +8,6 @@ Para el desarrollo de la página web, utilicé tecnologías como Angular para la
 
 En general, estoy muy satisfecho con el resultado de mi página web y creo que es una buena manera de mostrar mis habilidades y proyectos realizados.
 
-Dino Ferré 👽
+Dino Ferré 👽 - Link del portfolio 👇 
 
-Link del portfolio en About 👉
+https://dinoferre.github.io/Angular-Porfolio-Dino-Ferre/
